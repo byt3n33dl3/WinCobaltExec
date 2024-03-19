@@ -3,11 +3,7 @@ an easy to use script for generating Payloads that bypasses antivirus
 
 # Requirements
 Metasploit Framework
-
 (PowerSploit)
-
-# Author
-Written by b3rito at mes3hacklab
 
 # Installation
     chmod +x trolo.sh
@@ -15,7 +11,6 @@ Written by b3rito at mes3hacklab
 # Usage
 ./trolo.sh
 
-    b3rito@antani ~/trolo $ ./trolo.sh 
       ================================================================================
                                  +(\           
                         ______ +/  .|   _____  ____  ____  _     ____
