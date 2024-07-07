@@ -23,7 +23,7 @@ Inspired name by [CME](https://github.com/byt3bl33d3r/CrackMapExec) You are on t
 - If you want to discuss, open a [Discussion](https://github.com/pxcs/WinCobaltExec/discussions)
 
 # Installation
-please see the *packages* and **repo** [here!](https://github.com/pxcs/WinCobaltExec/)
+please see the **packages** and **repo** [here!](https://github.com/pxcs/WinCobaltExec/)
 
 ## Acknowledgments
 **(These are the people who did the hard stuff)**
