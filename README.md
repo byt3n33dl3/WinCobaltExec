@@ -1,6 +1,6 @@
-# Say No!, to Anti Virus ( every brand )
+## Say No!, to Anti Virus ( every brand )
 
-```                                                              
+```py                                                              
  __    __ _         ___      _           _ _     __               
 / / /\ \ (_)_ __   / __\___ | |__   __ _| | |_  /__\_  _____  ___ 
 \ \/  \/ / | '_ \ / /  / _ \| '_ \ / _` | | __|/_\ \ \/ / _ \/ __|
@@ -26,7 +26,6 @@ Inspired name by [CME](https://github.com/byt3bl33d3r/CrackMapExec) You are on t
 please see the **packages** and **repo** [here!](https://github.com/pxcs/WinCobaltExec/)
 
 ## Acknowledgments
-**(These are the people who did the hard stuff)**
 
 This project was originally inspired by:
 - [Sutton]()
